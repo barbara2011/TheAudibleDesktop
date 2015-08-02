@@ -1,6 +1,7 @@
 # TheAudibleDesktop
 "The Audible Desktop" can be downloaded as a beta release.  Click on the release link.  
 
+https://github.com/barbara2011/TheAudibleDesktop/releases/tag/AudibleDesktop
 
 Log of changes to The Audible Desktop
 
